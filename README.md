@@ -1,5 +1,5 @@
 # Diagrama
-## Diagrama en draw.io
+# Diagrama en draw.io
 [DiagramaCursos.drawio](https://github.com/user-attachments/files/26620953/DiagramaCursos.drawio)
 
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
@@ -475,5 +475,5 @@
     </mxGraphModel>
   </diagram>
 </mxfile>
-## Diagrama en imagen
+# Diagrama en imagen
 <img width="2791" height="2764" alt="DiagramaCursos" src="https://github.com/user-attachments/assets/4344fa1c-6b4a-45cf-b8bb-fdc958fda9fe" />
