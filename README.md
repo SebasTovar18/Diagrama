@@ -1,4 +1,3 @@
-# Diagrama
 # Diagrama en draw.io
 [DiagramaCursos.drawio](https://github.com/user-attachments/files/26620953/DiagramaCursos.drawio)
 
