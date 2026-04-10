@@ -475,5 +475,6 @@
     </mxGraphModel>
   </diagram>
 </mxfile>
+
 # Diagrama en imagen
 <img width="2791" height="2764" alt="DiagramaCursos" src="https://github.com/user-attachments/assets/4344fa1c-6b4a-45cf-b8bb-fdc958fda9fe" />
