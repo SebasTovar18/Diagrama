@@ -31,6 +31,10 @@ Además, se implementan relaciones UML como herencia, composición, asociación 
 Imagen
 <img width="14611" height="13524" alt="DiagramaCursos" src="https://github.com/user-attachments/assets/f2f47073-44fa-4c49-8ef3-1976beec9b0f" />
 
+
+Archivo descargable
+
+
 [DiagramaCursos.drawio](https://github.com/user-attachments/files/27771867/DiagramaCursos.drawio)
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
   <diagram name="Página-1" id="qgkAb6LaEqeJb61b8tR_">
