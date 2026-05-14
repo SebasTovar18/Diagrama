@@ -495,9 +495,9 @@ Archivo:
   </diagram>
 </mxfile>
 
-```
 
----
+
+
 
 # 📁 Estructura del Proyecto
 
